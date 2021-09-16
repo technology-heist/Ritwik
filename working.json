@@ -1,0 +1,18 @@
+[
+  
+  {
+    "action": "connect",
+   
+    "timeout": "45",
+    "from": "12486219731",
+    "endpoint": [
+      {
+        "type": "phone",
+        "number": "918886010678",
+        "dtmfAnswer": "2p02p"
+      }
+    ]
+  }
+]
+
+
