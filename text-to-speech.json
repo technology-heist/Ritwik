@@ -1,8 +1,5 @@
 [
-  {
-    "action": "talk",
-    "text": "Please wait while we connect you"
-  },
+  
   {
     "action": "connect",
     "eventUrl": ["https://example.com/events"],
