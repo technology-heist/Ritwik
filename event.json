@@ -7,7 +7,7 @@
     "action": "connect",
     "eventUrl": ["https://example.com/events"],
     "timeout": "45",
-    "from": "15043751200",
+    "from": "12486751177",
     "endpoint": [
       {
         "type": "phone",
